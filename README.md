@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a general computer science student at IAU<br>- still learning how to use github</p>
+<p align="left">General computer science student at IAU<br>- still learning how to use github</p>
 
 ###
 
