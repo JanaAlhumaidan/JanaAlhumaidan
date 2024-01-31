@@ -5,8 +5,7 @@
 
 <h2 align="left">Hello world! I'm Jana Alhumaidan <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2> 
 
-<p align="left">General computer science student at IAU</p> 
-
+<p><em> General computer science student at <a href="https://www.iau.edu.sa/en">Imam Abdulrahman Bin Faisal University</a>
 <h2 align="left">📖  What I am currently learning / improving on </h2> 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
