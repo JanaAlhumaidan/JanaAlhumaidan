@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Jana Alhumaidan</h2>
+<h2 align="left">Hello world! I'm Jana Alhumaidan</h2>
 
 ###
 
