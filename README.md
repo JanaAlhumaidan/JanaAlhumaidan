@@ -3,9 +3,8 @@
 
 
 
-<h2 align="left">Hello world! I'm Jana Alhumaidan</h2> 
+<h2 align="left">Hello world! I'm Jana Alhumaidan <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2> 
 
-###
 <p align="left">General computer science student at IAU</p> 
 
 
