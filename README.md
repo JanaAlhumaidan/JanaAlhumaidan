@@ -2,9 +2,20 @@
 
 
 
-<h2 align="left">Hello world! I'm Jana Alhumaidan <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2> 
 
-<p> <em>General computer science student at <a href="https://www.iau.edu.sa/en">Imam Abdulrahman Bin Faisal University</a>
+
+<h2 align="left">Hello world! I'm Jana Alhumaidan <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2> 
+<p> General computer science student at <a href="https://www.iau.edu.sa/en">Imam Abdulrahman Bin Faisal University</a>
+
+<h2 align="left">💻 Languages and tools </h2> 
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+</div>
+
 <h2 align="left">📖 What I am currently learning / improving on </h2> 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
@@ -20,15 +31,6 @@
   <a href="https://twitter.com/Jana7h" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-</div>
-
-<h2 align="left">💻 Languages and tools </h2> 
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
 </div>
 
 <div align="center">
