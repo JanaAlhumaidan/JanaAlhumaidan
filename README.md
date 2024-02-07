@@ -4,7 +4,7 @@
 
 
 
-<h2 align="left">Hello world! I'm Jana Alhumaidan <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> </h2> 
+<h2 align="left">Hello world! I'm Jana Alhumaidan <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> </h2> 
 <p><em> General computer science student at <a href="https://www.iau.edu.sa/en">Imam Abdulrahman Bin Faisal University</em>
 
 <h2 align="left">💻 Languages and tools </h2> 
