@@ -21,6 +21,10 @@
 <h2 align="left">📖 What I am currently learning / improving on </h2> 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+</div>
+
+###
 </div>
 
 <h2 align="left">🔍 Where to find me </h2> 
